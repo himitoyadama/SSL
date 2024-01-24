@@ -1,4 +1,6 @@
-# UWP-Reference
+# SSL
+とほほのOpenSSL入門
+https://www.tohoho-web.com/ex/openssl.html
 
 XAML デザイナーを使用して UI を作成する
 https://learn.microsoft.com/ja-jp/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2022
