@@ -1,4 +1,7 @@
 # SSL
+セキュリティ技術入門（デジタル署名、公開鍵・秘密鍵、TLS/SSL(HTTPS)、VPN、ブロックチェーンなど）
+https://m.youtube.com/watch?v=0FGBkQ53mD0
+
 OpenSSL 入門
 https://weblabo.oscasierra.net/openssl/
 
