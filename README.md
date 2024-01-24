@@ -1,4 +1,7 @@
 # SSL
+Ubuntu20.04 で Certbot を使った SSL 証明書の発行と更新
+https://tks2.co.jp/2021/10/07/ubuntu-certbot-2021/
+
 セキュリティ技術入門（デジタル署名、公開鍵・秘密鍵、TLS/SSL(HTTPS)、VPN、ブロックチェーンなど）
 https://m.youtube.com/watch?v=0FGBkQ53mD0
 
