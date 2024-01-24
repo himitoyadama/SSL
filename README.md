@@ -1,4 +1,7 @@
 # SSL
+OpenSSL 入門
+https://weblabo.oscasierra.net/openssl/
+
 とほほのOpenSSL入門
 https://www.tohoho-web.com/ex/openssl.html
 
