@@ -1,4 +1,7 @@
 # SSL
+Git for Windows付属のopensslを実行するときはwinptyが必要
+https://volvox.hateblo.jp/entry/20160528/1464416964
+
 WordPress独自SSLのかんたんな解説とかんたんプラグイン！！ Really Simple SSL【ワードプレス】
 https://www.youtube.com/watch?v=8jLJgYAW3Tg
 
