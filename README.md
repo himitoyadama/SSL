@@ -1,4 +1,10 @@
 # SSL
+ダイスウェア　パスフレーズ　ホームページ
+https://www.hyuki.com/diceware/
+
+BEGIN PGP SIGNED MESSAGE
+https://www.hyuki.com/diceware/diceware.wordlist.asc
+
 Git for Windows付属のopensslを実行するときはwinptyが必要
 https://volvox.hateblo.jp/entry/20160528/1464416964
 
