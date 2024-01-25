@@ -1,4 +1,7 @@
 # SSL
+【頻出】SSL/TLS・電子証明書・デジタル署名・ハッシュ値【高校情報１・支援士・基本/応用情報】
+https://www.youtube.com/watch?v=a2jKjdOJslE
+
 ダイスウェア　パスフレーズ　ホームページ
 https://www.hyuki.com/diceware/
 
