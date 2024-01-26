@@ -1,5 +1,8 @@
 # SSL
 
+ローカル環境で SSL を有効にする（for XAMPP）
+https://laraweb.net/environment/3722/
+
 Git for Windows付属のopensslを実行するときはwinptyが必要
 https://volvox.hateblo.jp/entry/20160528/1464416964
 
