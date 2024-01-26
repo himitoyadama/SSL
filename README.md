@@ -1,4 +1,7 @@
 # SSL
+オレオレ証明書で
+https://tech.packetroom.net/xampp-my-tls-certificate
+
 XAMPPでHTTPS通信！SSLのためのCSRの作り方
 https://dxo.co.jp/blog/archives/3016
 
