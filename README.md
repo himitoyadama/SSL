@@ -1,12 +1,12 @@
 # SSL
+XAMPPでHTTPS通信！SSLのためのCSRの作り方
+https://dxo.co.jp/blog/archives/3016
+
 XAMPP for WindowsでSSLを有効にする
 https://qiita.com/sutara79/items/21a068494bc3a08a4803
 
 Certbot
 https://certbot.eff.org/
-
-ローカル環境で SSL を有効にする（for XAMPP）
-https://laraweb.net/environment/3722/
 
 Git for Windows付属のopensslを実行するときはwinptyが必要
 https://volvox.hateblo.jp/entry/20160528/1464416964
