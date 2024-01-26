@@ -1,0 +1,2 @@
+//openssl rsautl コマンドの代わりにpkeyutlを使う
+$ cat meesage.dat | openssl pkeyutl -decrypt -inkey server.key
