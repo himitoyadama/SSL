@@ -1,2 +1,16 @@
+//秘密鍵の作成
+$ winpty openssl genrsa -aes128 -out server.key 2048
+Enter PEM pass phrase:
+Verifying - Enter PEM pass phrase:
+
+//公開鍵の作成
+$ openssl rsa -pubout < server.key > pub.key
+
 //openssl rsautl コマンドの代わりにpkeyutlを使う
-$ cat meesage.dat | openssl pkeyutl -decrypt -inkey server.key
+$ echo "fuck you!" | openssl pkeyutl -encrypt -pubin -inkey pub.key > message.dat
+
+$ cat message.dat | openssl rsautl -decrypt -inkey server.key
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+
+Enter pass phrase for server.key:
+fuck you!
