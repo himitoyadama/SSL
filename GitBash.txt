@@ -14,3 +14,9 @@ The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
 
 Enter pass phrase for server.key:
 fuck you!
+
+//証明書署名要求(CSR / Certificate Signing Request)の作成
+$ openssl req -new -key server.key > server.csr
+
+//サーバ証明書の作成
+$ openssl x509 -req -days 3650 -signkey server.key < server.csr > server.crt
