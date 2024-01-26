@@ -1,4 +1,7 @@
 # SSL
+XAMPP for WindowsでSSLを有効にする
+https://qiita.com/sutara79/items/21a068494bc3a08a4803
+
 Certbot
 https://certbot.eff.org/
 
