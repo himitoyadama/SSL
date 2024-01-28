@@ -1,4 +1,7 @@
 # SSL
+【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた/CCNA対策/情報処理安全確保支援士/ネットワークスペシャリスト（SSH/HTTP）
+https://www.youtube.com/watch?v=IcGNJVmRPo0
+
 VirtualBoxを使ってみよう!
 https://www.youtube.com/watch?v=E6v_C_8tS-I
 
