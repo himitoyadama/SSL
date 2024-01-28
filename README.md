@@ -1,4 +1,7 @@
 # SSL
+Apacheで検証用Webサーバを構築する方法【Apache・Webサーバ・Linux】
+https://www.youtube.com/watch?v=IhLFCHRJVAk
+
 Apache Webサーバーを作ってみよう！
 https://eng-entrance.com/apache-web%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81
 
