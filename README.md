@@ -1,4 +1,7 @@
 # SSL
+VirtualBoxを使ってみよう!
+https://www.youtube.com/watch?v=E6v_C_8tS-I
+
 Apacheで検証用Webサーバを構築する方法【Apache・Webサーバ・Linux】
 https://www.youtube.com/watch?v=IhLFCHRJVAk
 
