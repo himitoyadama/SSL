@@ -1,4 +1,7 @@
 # SSL
+【パソコン講座】第23回 SSLサーバー証明書の独自発行（自己署名証明書）【独り言】
+https://m.youtube.com/watch?v=altSzzqlqIg
+
 【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた/CCNA対策/情報処理安全確保支援士/ネットワークスペシャリスト（SSH/HTTP）
 https://www.youtube.com/watch?v=IcGNJVmRPo0
 
