@@ -5,8 +5,6 @@ https://qiita.com/paseri2022/items/a250ccf415819996163b
 SSL Server Test
 https://www.ssllabs.com/ssltest/index.html
 
-プライベート認証局を作成
-https://hcm-jinjer.com/blog/e-sign/private-certificate-authority/
 
 XAMPPでHTTPS通信！ApacheのSSL設定
 https://dxo.co.jp/blog/archives/5494
@@ -17,8 +15,6 @@ https://m.youtube.com/watch?v=altSzzqlqIg
 【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた/CCNA対策/情報処理安全確保支援士/ネットワークスペシャリスト（SSH/HTTP）
 https://www.youtube.com/watch?v=IcGNJVmRPo0
 
-VirtualBoxを使ってみよう!
-https://www.youtube.com/watch?v=E6v_C_8tS-I
 
 Apacheで検証用Webサーバを構築する方法【Apache・Webサーバ・Linux】
 https://www.youtube.com/watch?v=IhLFCHRJVAk
