@@ -1,4 +1,6 @@
 # SSL
+openssl オレオレ認証局で証明書発行
+https://qiita.com/paseri2022/items/a250ccf415819996163b
 
 SSL Server Test
 https://www.ssllabs.com/ssltest/index.html
