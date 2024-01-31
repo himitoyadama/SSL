@@ -1,4 +1,7 @@
 # SSL
+XAMPPでHTTPS通信！ApacheのSSL設定
+https://dxo.co.jp/blog/archives/5494
+
 【パソコン講座】第23回 SSLサーバー証明書の独自発行（自己署名証明書）【独り言】
 https://m.youtube.com/watch?v=altSzzqlqIg
 
