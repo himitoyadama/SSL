@@ -1,4 +1,7 @@
 # SSL
+openssl.cnfの[ v3_ca ]です。
+https://qiita.com/3244/items/2a2a2dc6cd1e2e35beb9
+
 openssl オレオレ認証局で証明書発行
 https://qiita.com/paseri2022/items/a250ccf415819996163b
 
