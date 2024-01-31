@@ -1,4 +1,8 @@
 # SSL
+
+SSL Server Test
+https://www.ssllabs.com/ssltest/index.html
+
 プライベート認証局を作成
 https://hcm-jinjer.com/blog/e-sign/private-certificate-authority/
 
