@@ -1,4 +1,8 @@
 # SSL
+
+オレオレ証明書で
+https://tech.packetroom.net/xampp-my-tls-certificate
+
 openssl.cnfの[ v3_ca ]です。
 https://qiita.com/3244/items/2a2a2dc6cd1e2e35beb9
 
@@ -25,8 +29,6 @@ https://www.youtube.com/watch?v=IhLFCHRJVAk
 Apache Webサーバーを作ってみよう！
 https://eng-entrance.com/apache-web%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81
 
-オレオレ証明書で
-https://tech.packetroom.net/xampp-my-tls-certificate
 
 XAMPPでHTTPS通信！SSLのためのCSRの作り方
 https://dxo.co.jp/blog/archives/3016
