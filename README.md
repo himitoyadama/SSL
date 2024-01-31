@@ -1,4 +1,7 @@
 # SSL
+プライベート認証局を作成
+https://hcm-jinjer.com/blog/e-sign/private-certificate-authority/
+
 XAMPPでHTTPS通信！ApacheのSSL設定
 https://dxo.co.jp/blog/archives/5494
 
