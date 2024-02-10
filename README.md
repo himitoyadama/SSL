@@ -1,4 +1,6 @@
 # SSL
+.htaccessファイルの書き方と設定・設置方法
+https://allabout.co.jp/gm/gc/23962/
 
 オレオレ証明書で
 https://tech.packetroom.net/xampp-my-tls-certificate
