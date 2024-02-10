@@ -1,4 +1,7 @@
 # SSL
+.htaccessとは？
+https://www.kagoya.jp/howto/it-glossary/web/htaccess/
+
 .htaccessファイルの書き方と設定・設置方法
 https://allabout.co.jp/gm/gc/23962/
 
