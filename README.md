@@ -1,4 +1,7 @@
 # SSL
+【FTPソフトCyberduck】サイバーダックの使い方と各レンタルサーバー への接続方法
+https://m.youtube.com/watch?v=_LPTCZ8eqXc
+
 FTPソフト FileZillaの使い方 設定方法を解説
 https://m.youtube.com/watch?v=psluPUb_-ck
 
