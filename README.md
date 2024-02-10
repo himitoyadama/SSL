@@ -1,4 +1,7 @@
 # SSL
+FTPソフト FileZillaの使い方 設定方法を解説
+https://m.youtube.com/watch?v=psluPUb_-ck
+
 【Web制作】Webサイト公開までの流れを一気に解説！フリーランス志望の方必見【ドメイン / サーバー】
 https://m.youtube.com/watch?v=kd6CA5mfhps
 
