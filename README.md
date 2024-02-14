@@ -1,4 +1,7 @@
 # SSL
+【裏の仕組み】URLやドメイン名、DNSとは何かを理解しよう【高校情報Ⅰ】4-9 URLとDNS
+https://m.youtube.com/watch?v=LhpI-kfsza0&t=0s
+
 【FTPソフトCyberduck】サイバーダックの使い方と各レンタルサーバー への接続方法
 https://m.youtube.com/watch?v=_LPTCZ8eqXc
 
