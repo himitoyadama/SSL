@@ -1,4 +1,7 @@
 # SSL
+Deploy Laravel on Ubuntu Apache server
+https://m.youtube.com/watch?v=iye4lmB6diE
+
 【裏の仕組み】URLやドメイン名、DNSとは何かを理解しよう【高校情報Ⅰ】4-9 URLとDNS
 https://m.youtube.com/watch?v=LhpI-kfsza0&t=0s
 
