@@ -1,4 +1,7 @@
 # SSL
+【AWSによるWEBアプリのデプロイ#1】WEBアプリのデプロイの概要
+https://m.youtube.com/watch?v=jk34iUyVnho
+
 Deploy Laravel on Ubuntu Apache server
 https://m.youtube.com/watch?v=iye4lmB6diE
 
