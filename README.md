@@ -1,4 +1,7 @@
-# SSL
+# server
+【本番環境なら必須】アプリケーションの設定を環境変数で管理しよう！
+https://m.youtube.com/watch?v=y0kAFL7c4Xo
+
 【AWSによるWEBアプリのデプロイ#1】WEBアプリのデプロイの概要
 https://m.youtube.com/watch?v=jk34iUyVnho
 
