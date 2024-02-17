@@ -1,4 +1,10 @@
 # server
+実践！サーバー構築　AWSでインスタンスを作成してみよう【プログラミング】 
+https://www.youtube.com/watch?v=8WIVI2WcxdQ&t=0s
+
+Let's Encryptを使ったSSL証明書の導入手順（CentOS7）【実践】【プログラミング】 
+https://www.youtube.com/watch?v=13NTn6WiQvU&list=PLgx8xyH2m7OUWDzW7o6gB6625BXXWgR22
+
 無料SSL証明書を自動更新にしてみる(´・ω・｀)
 https://dgz.jp/sslbat/
 
