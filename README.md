@@ -1,4 +1,7 @@
 # server
+XAMPPは難しい?ならばレンタルサーバーで直接PHPなどのプログラムを開発しよう。無料レンタルサーバーでできるよ
+https://m.youtube.com/watch?v=yD-6mjK-2c0
+
 エックスフリーとは
 https://tokai-rf.com/archives/3311
 
