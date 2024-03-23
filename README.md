@@ -1,4 +1,7 @@
 # server
+エックスフリーとは
+https://tokai-rf.com/archives/3311
+
 実践！サーバー構築　AWSでインスタンスを作成してみよう【プログラミング】 
 https://www.youtube.com/watch?v=8WIVI2WcxdQ&t=0s
 
